@@ -1,2 +1,1 @@
-# holbertonschool-web_react
-web react
+typescript
